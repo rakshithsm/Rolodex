@@ -1,0 +1,1 @@
+extern void rolo_update_mode (Ptr_Rolo_List rlink);
